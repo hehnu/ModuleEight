@@ -3,7 +3,7 @@
 # Corner Grocer Item Tracking Program
 
 ## Project Summary
-This C++ project was created for Corner Grocer to help track how often different items are purchased throughout the day. The program reads a text file of recorded purchases and presents the data in three ways: the frequency of a specific item, a complete list of all item frequencies, and a visual histogram made of asterisks. The goal here was to help the store make better decisions about how to organize their produce section based on customer behavior.
+This C++ project was created for Corner Grocer store to help track how often different items are purchased throughout the day. The program reads a text file of recorded purchases and presents the data in three ways: the frequency of a specific item, a complete list of all item frequencies, and a visual histogram made of asterisks. The goal here was to help the store make better decisions about how to organize their produce section based on customer behavior.
 
 ## Strengths
 One of the parts I’m especially proud of is the class design. I created a class  called `ItemTracker`  that keeps all the logic for the program in one place. I also used `std::map` for the file input/output and to count and store item frequencies. The interactive menu takes in user input and helps users select menu options.
