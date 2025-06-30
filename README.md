@@ -1,8 +1,8 @@
-# ModuleEight
+# Module Eight
 
 # Corner Grocer Item Tracking Program
 
-##Project Summary
+## Project Summary
 This C++ project was created for Corner Grocer to help track how often different items are purchased throughout the day. The program reads a text file of recorded purchases and presents the data in three ways: the frequency of a specific item, a complete list of all item frequencies, and a visual histogram made of asterisks. The goal here was to help the store make better decisions about how to organize their produce section based on customer behavior.
 
 ## Strengths
